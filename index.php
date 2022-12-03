@@ -55,14 +55,14 @@
     <header id="home" class="header">
         <div class="overlay"></div>
         <div class="header-content">
-            <p>Join Us Today</p>
+            <p>Welcome to GIF</p>
             <h2>GARNET IDENTITY FEDERATION (GIF)</h2> 
             
             <p style="font-size: 15px;">For GARNET member institutions to access and share resources (services and content)<br> over the GARNET Network and other data networks in the region and globally,</br><br> the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</br> </p>
         
         <br>
         <br>
-        <button class="btn btn-outline-light">Join Now</button>
+        <button class="btn btn-outline-light">Join Us Today</button>
     
         </div>      
     </header><!-- End of Page Header -->    
