@@ -44,7 +44,7 @@
                         <a class="nav-link" href="#contact">Documents</a>
                     </li>
                     <li class="nav-item ml-md-4">
-                        <a class="nav-link btn btn-primary" href="components.html">Components</a>
+                        <a class="nav-link btn btn-primary" href="">Contact Us</a>
                     </li>
                 </ul>
             </div>
