@@ -62,7 +62,7 @@
         
         <br>
         <br>
-        <button class="btn btn-outline-light">Download Now</button>
+        <button class="btn btn-outline-light">Join Now</button>
     
         </div>      
     </header><!-- End of Page Header -->    
