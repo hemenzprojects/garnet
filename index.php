@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with Creative Design landing page.">
     <meta name="author" content="Devcrud">
-    <title>Creative Design | Free Bootstrap 4.3.x template</title>
+    <title>GARNET IDENTITY FEDERATION (GIF)</title>
 
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap + Creative Design main styles -->
 	<link rel="stylesheet" href="assets/css/creative-design.css">
 
@@ -17,7 +17,7 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
     
     <!-- Page Navbar -->
-    <nav id="scrollspy" class="navbar page-navbar navbar-light navbar-expand-md fixed-top" data-spy="affix" data-offset-top="20">
+    <nav id="scrollspy" class="navbar page-navbar navbar-light navbar-expand-md fixed-top" data-spy="affix" data-offset-top="20" >
         <div class="container">
             <img src ="garnetlogo.jpeg" >
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,23 +26,32 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#home">Home</a>
+                <li class="nav-item">
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">About</a>
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#IdPs">IdPs</a>
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/idps">IdPs</a>
                         
                     </li>
                     
                     <li class="nav-item">
-                        <a class="nav-link" href="#SPs">SPs</a>
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/sps">SPs</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Documents</a>
-                    </li>
+                
+                    <div class="dropdown" style="float:left;">
+                    <a class="nav-link dropbtn" href="https://gif.garnet.edu.gh/sps">Documents</a>
+                    <div class="dropdown-content" style="left:0;">
+                        <a href="#">RENU Identity Federation Policy</a>
+                        <a href="#">Metadata Registration Practice Statement</a>
+                        <a href="#">RIF eduroam Technology Profile</a>
+                        <a href="#">RIF SAML WebSSO Technology Profile</a>
+
+                    </div>
+                    </div>
+
                     <li class="nav-item ml-md-4">
                         <a class="nav-link btn btn-primary" href="">Contact Us</a>
                     </li>
@@ -180,10 +189,11 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <h6 class="title mb-3">Lorem ipsum dolor sit amet, consectetur.</h6>
-                    
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae autem rem impedit molestiae hic ducimus, consequuntur ullam dolorem quaerat beatae labore explicabo, sint laboriosam aperiam nihil inventore facilis. Quasi, facilis.</p>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, amet!</p>
+                    <h6 class="title mb-3">Eduram & SAML WebSSO</h6>
+                     <p> <strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the RENU Identity Federation can be accessed <a href="">here</a>.</p><br>
+
+
+                    <p><strong>SAML WebSSO:</strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the RENU Identity Federation (RIF) can be accessed <a href="">here</a>.</p>
                     <button class="btn btn-outline-primary btn-sm">Learn More</button>
                 </div>
             </div><!-- End of Row -->           
@@ -270,7 +280,7 @@
                     </li>
                     <li class="list-body">
                         <p style="color: aliceblue;">For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
-                        <a href="#"><strong class="text-primary">Creative</strong> <span class="text-dark">Design</span></a>
+                        <a href="#"><strong class="text-primary">GARNET</strong> <span class="text-dark"></span></a>
                     </li>
                 </ul>
                 <ul class="list">
@@ -286,10 +296,9 @@
                                 <a href="#">SPS</a>
                             </div>
                             <div class="col">
-                                <a href="#">DOCUMENTS</a>
-                                <a href="#">Link 6</a>
-                                <a href="#">Link 7</a>
-                                <a href="#">Link 8</a>
+                            <a href="#">DOCUMENTS</a>
+                                <a href="#">JOIN GIF</a>
+                                <a href="#">CONTACT US</a>
                             </div>
                         </div>
                     </li>
@@ -300,8 +309,8 @@
                     </li>
                     <li class="list-body">
                         <p style="color: aliceblue;">Contact us and we'll get back to you within 24 hours.</p>
-                        <p><i class="ti-location-pin"></i> 12345 Fake ST NoWhere AB Country</p>
-                        <p><i class="ti-email"></i>  info@website.com</p>
+                        <p><i class="ti-location-pin"></i> +233 20 811 0248 Accra - Ghana</p>
+                        <p><i class="ti-email"></i>  info@garnet.edu.gh</p>
                         <div class="social-links">
                             <a href="javascript:void(0)" class="link"><i class="ti-facebook"></i></a>
                             <a href="javascript:void(0)" class="link"><i class="ti-twitter-alt"></i></a>
