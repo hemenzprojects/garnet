@@ -27,18 +27,18 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/">Home</a>
+                        <a class="nav-link" href="http://gif.garnet.edu.gh/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/about.php">About</a>
+                        <a class="nav-link" href="http://gif.garnet.edu.gh/about.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/idps.php">IdPs</a>
+                        <a class="nav-link" href="http://gif.garnet.edu.gh/idps.php">IdPs</a>
                         
                     </li>
                     
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/sps.php">SPs</a>
+                        <a class="nav-link" href="http://gif.garnet.edu.gh/sps.php">SPs</a>
                     </li>
                    
                     <div class="dropdown" style="float:left;">
