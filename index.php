@@ -30,15 +30,15 @@
                         <a class="nav-link" href="https://gif.garnet.edu.gh/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/about">About</a>
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/about.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/idps">IdPs</a>
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/idps.php">IdPs</a>
                         
                     </li>
                     
                     <li class="nav-item">
-                        <a class="nav-link" href="https://gif.garnet.edu.gh/sps">SPs</a>
+                        <a class="nav-link" href="https://gif.garnet.edu.gh/sps.php">SPs</a>
                     </li>
                 
                     <div class="dropdown" style="float:left;">
