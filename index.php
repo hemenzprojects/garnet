@@ -44,10 +44,10 @@
                     <div class="dropdown" style="float:left;">
                     <a class="nav-link dropbtn" href="">Documents</a>
                     <div class="dropdown-content" style="left:0;">
-                        <a href="#">RENU Identity Federation Policy</a>
+                        <a href="http://gif.garnet.edu.gh/pdf/identityfredrationpolicy.pdf">RENU Identity Federation Policy</a>
                         <a href="#">Metadata Registration Practice Statement</a>
-                        <a href="#">RIF eduroam Technology Profile</a>
-                        <a href="#">RIF SAML WebSSO Technology Profile</a>
+                        <a href="http://gif.garnet.edu.gh/pdf/eduroam-Technology-Profile.pdf">RIF eduroam Technology Profile</a>
+                        <a href="http://gif.garnet.edu.gh/pdf/SAML-WebSSO-Technology-Profile.pdf">RIF SAML WebSSO Technology Profile</a>
 
                     </div>
                     </div>
@@ -201,12 +201,12 @@
     </section><!-- End of Section -->   
 
     <!-- Testmonial Section -->
-    <section class="text-center pt-5" id="testmonial">
+    <!--section class="text-center pt-5" id="testmonial">
         <!-- Container -->
-        <div class="container">
+        <!--div class="container">
             <h3 class="mt-3 mb-5 pb-5">What our Client says</h3>
             <!-- Row -->
-            <div class="row">
+            <!--div class="row">
                 <div class="col-sm-10 col-md-4 m-auto">
                     <div class="testmonial-wrapper">
                         <img src="assets/imgs/profile.jpg" alt="Client Image">
@@ -230,7 +230,7 @@
                 </div>
             </div><!-- end of Row -->           
         </div><!-- End of Cotanier -->  
-    </section><!-- End of Testmonial Section -->
+    <!--/section><!-- End of Testmonial Section -->
 
     <!-- Section -->
   
