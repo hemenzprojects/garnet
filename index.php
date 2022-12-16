@@ -189,7 +189,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <h6 class="title mb-3">Eduram & SAML WebSSO</h6>
+                    <h6 class="title mb-3">Eduroam & SAML WebSSO</h6>
                      <p> <strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the RENU Identity Federation can be accessed <a href="">here</a>.</p><br>
 
 
