@@ -68,10 +68,10 @@
                         <div class="col">
                         <h5 class="title mb-3">Join GIF as an IdP</h5>
 
-                    <p>GARNET is a not-for-profit membership organization collectively owned by its members. To join the Federation as an Identity Provider (IdP), an institution has to first become a member of GARNET.</p>
-                    <p >An institution that is subscribed to GARNET membership and has a desire to access services or resources hosted by other research or education institutions can freely request for membership to the GIF as an IdP. The organisation will be admitted into GIF at no cost after a formal application for membership is submitted by filling out this form and making a commitment to be bound by the GARNET Identity Federation Policy and the various addenda.</p>
+                    <p style="text-align: justify">GARNET is a not-for-profit membership organization collectively owned by its members. To join the Federation as an Identity Provider (IdP), an institution has to first become a member of GARNET.</p>
+                    <p style="text-align: justify">An institution that is subscribed to GARNET membership and has a desire to access services or resources hosted by other research or education institutions can freely request for membership to the GIF as an IdP. The organisation will be admitted into GIF at no cost after a formal application for membership is submitted by filling out this form and making a commitment to be bound by the GARNET Identity Federation Policy and the various addenda.</p>
                     <h5 class="title mb-3">List of identity providers</h5>
-                        <p>Identity Providers (IdPs) are members of the GARNET Identity Federation that provide the required infrastructure for the authentication of users.</p>
+                        <p style="text-align: justify">Identity Providers (IdPs) are members of the GARNET Identity Federation that provide the required infrastructure for the authentication of users.</p>
                          
                 </div>
                         <div class="col">
@@ -106,7 +106,7 @@
                         <h6 class="font-weight-bold" style="color: #fff;">ABOUT US</h6>
                     </li>
                     <li class="list-body">
-                        <p style="color: aliceblue;">For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
+                        <p style="color: aliceblue;text-align: justify">For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
                         <a href="#"><strong class="text-primary">GARNET</strong> <span class="text-dark"></span></a>
                     </li>
                 </ul>

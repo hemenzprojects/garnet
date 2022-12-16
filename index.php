@@ -67,7 +67,7 @@
             <p>Welcome to GIF</p>
             <h2>GARNET IDENTITY FEDERATION (GIF)</h2> 
             
-            <p style="font-size: 15px;">For GARNET member institutions to access and share resources (services and content)<br> over the GARNET Network and other data networks in the region and globally,</br><br> the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</br> </p>
+             <p style="font-size: 15px;">For GARNET member institutions to access and share resources (services and content)<br> over the GARNET Network and other data networks in the region and globally,</br><br> the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</br> </p>
         
         <br>
         <br>
@@ -88,14 +88,16 @@
                     <!-- row -->
                     <div class="row">
                         <div class="col">
-                            <p>For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
-                            <p><b>To join the GARNET Identity Federation, an institution is required to apply (download and fill-in form) either as an Identity Provider (IdP) or a Service Provider (SP) .</b></p>                        
-                            <p>Only GARNET member institutions can join GIF as Identity Providers (IdPs). However, to join GIF as a Service Provider (SP), an institution, organization, or company DOES NOT have to first subscribe to GARNET membership.</p>
+                          
+                            <p style="text-align: justify;"> For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.
+                             To join the GARNET Identity Federation, an institution is required to apply (download and fill-in form) either as an Identity Provider (IdP) or a Service Provider (SP) .   </p><br>
+
+                             <p>Only GARNET member institutions can join GIF as Identity Providers (IdPs). However, to join GIF as a Service Provider (SP), an institution, organization, or company DOES NOT have to first subscribe to GARNET membership.</p>
                             
                         </div>
                         <div class="col">
-                            <p>Access to resources federated through GARNET is governed by the GARNET Identity Federation Policy. Metadata registration in GIF is governed by the GIF Metadata Registration Practice Statement.</p>
-                            <p>GARNET Membership is open only to Research and Educational institutions that are accredited by the Ghana Tertiary Education Commission (GTEC) or operate under the auspices of the Ministry of Environment Science, Technology, and Innovation (MESTI). Institutions which conduct research and education as part of their mandate such as research Hospitals and Libraries may subscribe to GARNET membership and can be admitted on approval by the GARNET Board of Directors.</p>
+                            <p style="text-align: justify;">Access to resources federated through GARNET is governed by the GARNET Identity Federation Policy. Metadata registration in GIF is governed by the GIF Metadata Registration Practice Statement.</p>
+                            <p style="text-align: justify;">GARNET Membership is open only to Research and Educational institutions that are accredited by the Ghana Tertiary Education Commission (GTEC) or operate under the auspices of the Ministry of Environment Science, Technology, and Innovation (MESTI). Institutions which conduct research and education as part of their mandate such as research Hospitals and Libraries may subscribe to GARNET membership and can be admitted on approval by the GARNET Board of Directors.</p>
                         </div>
                     </div><!-- End of Row -->                   
                     <a href="javascript:void(0)">Read More...</a>
@@ -121,8 +123,8 @@
                 <div class="col-md-5">
                 
                     <h6 class="title mb-3">Join GIF as an IdP</h6>
-                    <p>GARNET is a not-for-profit membership organization collectively owned by its members. To join the Federation as an Identity Provider (IdP), an institution has to first become a member of GARNET.</p>
-                    <p >An institution that is subscribed to GARNET membership and has a desire to access services or resources hosted by other research or education institutions can freely request for membership to the GIF as an IdP. The organisation will be admitted into GIF at no cost after a formal application for membership is submitted by filling out this form and making a commitment to be bound by the GARNET Identity Federation Policy and the various addenda.</p>
+                    <p style="text-align: justify;">GARNET is a not-for-profit membership organization collectively owned by its members. To join the Federation as an Identity Provider (IdP), an institution has to first become a member of GARNET.</p>
+                    <p style="text-align: justify;">An institution that is subscribed to GARNET membership and has a desire to access services or resources hosted by other research or education institutions can freely request for membership to the GIF as an IdP. The organisation will be admitted into GIF at no cost after a formal application for membership is submitted by filling out this form and making a commitment to be bound by the GARNET Identity Federation Policy and the various addenda.</p>
                     <button class="btn btn-outline-primary btn-sm">Learn More</button>
                 </div>
             </div>
@@ -139,9 +141,9 @@
             <div class="row justify-content-between align-items-center">                
                 <div class="col-md-5">
                     <h6 class="title mb-3">Join GIF as an SP</h6>
-                    <p>GARNET is a not-for-profit membership organization collectively owned by its members. To join GIF as a Service Provider (SP), an institution DOES NOT have to first become a member of GARNET.</p>
-                    <p>An education or research institution that is subscribed to GARNET membership and has a desire to share resources as a Service Provider, can freely request for membership to the GIF, and can be admitted into GIF at no cost. The organisation must formally apply for membership by filling out this application form and must also commit to being bound by the GARNET Identity Federation Policy and the various addenda.</p>
-<p>Organisations that are not subscribed to GARNET membership and have a desire to join the GIF as a SP only, can join under non-member terms. Please contact the GARNET Secretariat for more details.</p>
+                    <p style="text-align: justify;">GARNET is a not-for-profit membership organization collectively owned by its members. To join GIF as a Service Provider (SP), an institution DOES NOT have to first become a member of GARNET.</p>
+                    <p style="text-align: justify;">An education or research institution that is subscribed to GARNET membership and has a desire to share resources as a Service Provider, can freely request for membership to the GIF, and can be admitted into GIF at no cost. The organisation must formally apply for membership by filling out this application form and must also commit to being bound by the GARNET Identity Federation Policy and the various addenda.</p>
+<p style="text-align: justify;">Organisations that are not subscribed to GARNET membership and have a desire to join the GIF as a SP only, can join under non-member terms. Please contact the GARNET Secretariat for more details.</p>
                     <button class="btn btn-outline-primary btn-sm">Learn More</button>
 
                 </div>
@@ -190,10 +192,10 @@
                 </div>
                 <div class="col-md-5">
                     <h6 class="title mb-3">Eduroam & SAML WebSSO</h6>
-                     <p> <strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the GARNET Identity Federation can be accessed <a href="">here</a>.</p><br>
+                     <p style="text-align: justify;"> <strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the GARNET Identity Federation can be accessed <a href="">here</a>.</p><br>
 
 
-                    <p><strong>SAML WebSSO:</strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the GARNET Identity Federation (GIF) can be accessed <a href="">here</a>.</p>
+                    <p style="text-align: justify;"><strong>SAML WebSSO:</strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the GARNET Identity Federation (GIF) can be accessed <a href="">here</a>.</p>
                     <button class="btn btn-outline-primary btn-sm">Learn More</button>
                 </div>
             </div><!-- End of Row -->           

@@ -67,17 +67,17 @@
                     <!-- row -->
                     <div class="row">
                         <div class="col">
-                            <p>For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
-                            <p><b>To join the GARNET Identity Federation, an institution is required to apply (download and fill-in form) either as an Identity Provider (IdP) or a Service Provider (SP) .</b></p>                        
-                            <p>Only GARNET member institutions can join GIF as Identity Providers (IdPs). However, to join GIF as a Service Provider (SP), an institution, organization, or company DOES NOT have to first subscribe to GARNET membership.</p>
-                            <p>Access to resources federated through GARNET is governed by the GARNET Identity Federation Policy. Metadata registration in GIF is governed by the GIF Metadata Registration Practice Statement.</p>
+                            <p style="text-align: justify;">For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
+                            <p style="text-align: justify;"><b>To join the GARNET Identity Federation, an institution is required to apply (download and fill-in form) either as an Identity Provider (IdP) or a Service Provider (SP) .</b></p>                        
+                            <p style="text-align: justify;">Only GARNET member institutions can join GIF as Identity Providers (IdPs). However, to join GIF as a Service Provider (SP), an institution, organization, or company DOES NOT have to first subscribe to GARNET membership.</p>
+                            <p style="text-align: justify;">Access to resources federated through GARNET is governed by the GARNET Identity Federation Policy. Metadata registration in GIF is governed by the GIF Metadata Registration Practice Statement.</p>
 
                         </div>
                         <div class="col">
-                            <p>GARNET Membership is open only to Research and Educational institutions that are accredited by the Ghana Tertiary Education Commission (GTEC) or operate under the auspices of the Ministry of Environment Science, Technology, and Innovation (MESTI). Institutions which conduct research and education as part of their mandate such as research Hospitals and Libraries may subscribe to GARNET membership and can be admitted on approval by the GARNET Board of Directors.</p><br>
-                            <p><strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the RENU Identity Federation can be accessed here.</p>
+                            <p style="text-align: justify;">GARNET Membership is open only to Research and Educational institutions that are accredited by the Ghana Tertiary Education Commission (GTEC) or operate under the auspices of the Ministry of Environment Science, Technology, and Innovation (MESTI). Institutions which conduct research and education as part of their mandate such as research Hospitals and Libraries may subscribe to GARNET membership and can be admitted on approval by the GARNET Board of Directors.</p><br>
+                            <p style="text-align: justify;"><strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the RENU Identity Federation can be accessed here.</p>
 
-                            <p><strong>SAML WebSSO: </strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the RENU Identity Federation (RIF) can be accessed here.</p>
+                            <p style="text-align: justify;"><strong>SAML WebSSO: </strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the RENU Identity Federation (RIF) can be accessed here.</p>
                         </div>
 
 
@@ -100,7 +100,7 @@
                         <h6 class="font-weight-bold" style="color: #fff;">ABOUT US</h6>
                     </li>
                     <li class="list-body">
-                        <p style="color: aliceblue;">For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
+                        <p style="color: aliceblue;text-align: justify"> For GARNET member institutions to access and share resources (services and content) over the GARNET Network and other data networks in the region and globally, the GARNET Identity Federation (GIF) was established in October 2022 securely and reliably.</p>
                         <a href="#"><strong class="text-primary">GARNET</strong> <span class="text-dark"></span></a>
                     </li>
                 </ul>
