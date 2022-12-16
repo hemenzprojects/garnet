@@ -44,10 +44,10 @@
                     <div class="dropdown" style="float:left;">
                     <a class="nav-link dropbtn" href="">Documents</a>
                     <div class="dropdown-content" style="left:0;">
-                        <a href="http://gif.garnet.edu.gh/pdf/identityfredrationpolicy.pdf">RENU Identity Federation Policy</a>
+                        <a href="http://gif.garnet.edu.gh/pdf/identityfredrationpolicy.pdf">GARNET Identity Federation Policy</a>
                         <a href="#">Metadata Registration Practice Statement</a>
-                        <a href="http://gif.garnet.edu.gh/pdf/eduroam-Technology-Profile.pdf">RIF eduroam Technology Profile</a>
-                        <a href="http://gif.garnet.edu.gh/pdf/SAML-WebSSO-Technology-Profile.pdf">RIF SAML WebSSO Technology Profile</a>
+                        <a href="http://gif.garnet.edu.gh/pdf/eduroam-Technology-Profile.pdf">GIF eduroam Technology Profile</a>
+                        <a href="http://gif.garnet.edu.gh/pdf/SAML-WebSSO-Technology-Profile.pdf">GIF SAML WebSSO Technology Profile</a>
 
                     </div>
                     </div>
