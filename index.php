@@ -193,7 +193,7 @@
                      <p> <strong>Eduroam</strong> is an Authentication and Authorization Infrastructure (AAI) based on RADIUS or RadSEC. The Technology Profile for eduroam under the RENU Identity Federation can be accessed <a href="">here</a>.</p><br>
 
 
-                    <p><strong>SAML WebSSO:</strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the GARNET Identity Federation (RIF) can be accessed <a href="">here</a>.</p>
+                    <p><strong>SAML WebSSO:</strong> The SAML V2.0 Web Browser SSO Profile defines a standard that enables Identity Providers and relying parties to create and use web Single Sign On services using SAML Requirements. The SAML WebSSO Technology Profile for the GARNET Identity Federation (GIF) can be accessed <a href="">here</a>.</p>
                     <button class="btn btn-outline-primary btn-sm">Learn More</button>
                 </div>
             </div><!-- End of Row -->           
